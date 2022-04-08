@@ -1,0 +1,2 @@
+[ubuntu18]
+172.16.145.64 ansible_user=ssv
